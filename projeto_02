@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="indicator"></div>
+            <ul class="box-li">
+                <li class="nav-li active">
+                    <div class="icon">
+                        <ion-icon name="home-outline"></ion-icon>
+                    </div>
+                    <a class="text-li" href="">Home</a>
+                </li>
+                <li class="nav-li">
+                    <div class="icon">
+                        <ion-icon name="people-outline"></ion-icon>
+                    </div>
+                    <a class="text-li" href="">Contacts</a>
+                </li>
+                <li class="nav-li">
+                    <div class="icon">
+                        <ion-icon name="battery-charging-outline"></ion-icon>
+                    </div>
+                    <a class="text-li" href="">About</a>
+                </li>
+                <li class="nav-li">
+                    <div class="icon">
+                        <ion-icon name="settings-outline"></ion-icon>
+                    </div>
+                    <a class="text-li" href="">Setings</a>
+                </li>
+                <li class="nav-li">
+                    <div class="icon">
+                        <ion-icon name="person-outline"></ion-icon>
+                    </div>
+                    <a class="text-li" href="">Profile</a>
+                </li>
+
+            </ul>
+        </nav>
+    </header>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <script src="./script.js"></script>
+
+
+    <div class="inicial">
+        <h1 class="titulo">
+            Meu Blog
+        </h1>
+
+        <p class="apresentacao">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis reiciendis molestiae error tempore numquam voluptates optio dignissimos vel, voluptatem nemo.
+        </p>
+
+    </div>
+
+    <div class="sobre">
+        <h1 class="titulo">
+            Sobre mim
+        </h1>
+        <p class="psobre">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae tempora quisquam fuga ea quas facilis eligendi qui? Earum explicabo nulla veritatis autem. Excepturi facere rerum tempora voluptates fuga accusamus! Quisquam, est ab! Ipsam, perferendis voluptatem culpa in iure sequi modi reprehenderit omnis explicabo necessitatibus minus ut deleniti nostrum autem id laudantium est doloremque officiis provident odio illo distinctio et ex? Eum maiores porro similique architecto ea illo ipsa nulla accusantium nemo vero! Perspiciatis, ad magni molestias excepturi ipsa pariatur aliquam vel quibusdam magnam officiis at saepe fuga ut velit dolorum laborum architecto obcaecati vero hic nobis quaerat. Doloremque, blanditiis perferendis?
+        </p>
+    </div>
+
+
+<!-- brfgbdfbdb 
+vjyvluyblub
+tfvj6fyj
+-->
+
+</body>
+</html>
